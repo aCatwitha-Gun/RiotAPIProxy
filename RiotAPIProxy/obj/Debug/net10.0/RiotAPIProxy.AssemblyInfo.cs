@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiotAPIProxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e53e11bc04a9dfa00d3d723aecd75bfd6eb002d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiotAPIProxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiotAPIProxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
